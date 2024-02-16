@@ -1,0 +1,107 @@
+{
+  "People": [
+    {
+      "FirstName": "temo",
+      "LastName": "bgarashvili",
+      "CardNumber": "11111",
+      "PinCode": "11",
+      "CVC": "1",
+      "ExpirationDate": "03/27",
+      "TransactionHistory": [
+        {
+          "TransactionDate": "2024-02-16-04-43",
+          "TransactionType": "ViewBalance",
+          "AmountGel": 180,
+          "AmountUSD": 67.16417910447761,
+          "AmountEUR": 57.87781350482315
+        },
+        {
+          "TransactionDate": "2024-02-16-04-43",
+          "TransactionType": "CurrencyConversion",
+          "AmountGel": 80,
+          "AmountUSD": 29.850746268656714,
+          "AmountEUR": 25.72347266881029
+        },
+        {
+          "TransactionDate": "2024-02-16-04-43",
+          "TransactionType": "ChangePin",
+          "AmountGel": 180,
+          "AmountUSD": 67.16417910447761,
+          "AmountEUR": 57.87781350482315
+        },
+        {
+          "TransactionDate": "2024-02-16-04-43",
+          "TransactionType": "Withdrawal",
+          "AmountGel": 20,
+          "AmountUSD": 7.462686567164178,
+          "AmountEUR": 6.430868167202573
+        },
+        {
+          "TransactionDate": "2024-02-16-04-43",
+          "TransactionType": "Deposit",
+          "AmountGel": 50,
+          "AmountUSD": 18.656716417910445,
+          "AmountEUR": 16.077170418006432
+        },
+        {
+          "TransactionDate": "2024-02-16-04-43",
+          "TransactionType": "Deposit",
+          "AmountGel": 50,
+          "AmountUSD": 18.656716417910445,
+          "AmountEUR": 16.077170418006432
+        },
+        {
+          "TransactionDate": "2024-02-16-04-42",
+          "TransactionType": "Deposit",
+          "AmountGel": 100,
+          "AmountUSD": 37.31343283582089,
+          "AmountEUR": 32.154340836012864
+        },
+        {
+          "TransactionDate": "2024-02-16-04-44",
+          "TransactionType": "LastFiveOperations",
+          "AmountGel": 180,
+          "AmountUSD": 67.16417910447761,
+          "AmountEUR": 57.87781350482315
+        },
+        {
+          "TransactionDate": "2024-02-16-04-44",
+          "TransactionType": "LastFiveOperations",
+          "AmountGel": 180,
+          "AmountUSD": 67.16417910447761,
+          "AmountEUR": 57.87781350482315
+        },
+        {
+          "TransactionDate": "2024-02-16-04-44",
+          "TransactionType": "LastFiveOperations",
+          "AmountGel": 180,
+          "AmountUSD": 67.16417910447761,
+          "AmountEUR": 57.87781350482315
+        },
+        {
+          "TransactionDate": "2024-02-16-04-44",
+          "TransactionType": "LastFiveOperations",
+          "AmountGel": 180,
+          "AmountUSD": 67.16417910447761,
+          "AmountEUR": 57.87781350482315
+        },
+        {
+          "TransactionDate": "2024-02-16-04-44",
+          "TransactionType": "LastFiveOperations",
+          "AmountGel": 180,
+          "AmountUSD": 67.16417910447761,
+          "AmountEUR": 57.87781350482315
+        }
+      ]
+    },
+    {
+      "FirstName": "gio",
+      "LastName": "rexviashvili",
+      "CardNumber": "22222",
+      "PinCode": "222",
+      "CVC": "2",
+      "ExpirationDate": "10/28",
+      "TransactionHistory": []
+    }
+  ]
+}
